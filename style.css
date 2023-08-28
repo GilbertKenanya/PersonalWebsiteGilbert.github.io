@@ -1,0 +1,79 @@
+.banner {
+    background: url("https://i.postimg.cc/Gp603QFF/2109.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: floralwhite;
+}
+
+.whitetext {
+  color: white;
+  padding-top: 10px;
+}
+
+.graytext {
+  color: rgb(243, 243, 243);
+  padding-top: 10px;
+}
+
+.portofolio {
+  background-size: cover;
+  background-color: gray;
+}
+
+
+
+.citra1 {
+    background-color: #5e1212;  
+    width: 200px; /* Sesuaikan ukuran avatar sesuai kebutuhan */
+    height: 200px;
+    border-radius: 50%; /* Mengatur gambar menjadi bulat */
+    object-fit: cover; /* Untuk memastikan gambar terisi dengan baik di area bulat */
+    
+  }
+
+.citra2 {
+    background-color: rgb(6, 6, 71);  
+    width: 200px; /* Sesuaikan ukuran avatar sesuai kebutuhan */
+    height: 200px;
+    border-radius: 50%; /* Mengatur gambar menjadi bulat */
+    object-fit: cover; /* Untuk memastikan gambar terisi dengan baik di area bulat */
+    
+  }
+
+  .kontak {
+    background-color: white;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #979797;
+  }
+
+.client img {
+  height: auto;
+  max-height: 60px;
+}
+.citra3 {
+    background-color: rgb(63, 63, 63);  
+    width: 200px; /* Sesuaikan ukuran avatar sesuai kebutuhan */
+    height: 200px;
+    border-radius: 50%; /* Mengatur gambar menjadi bulat */
+    object-fit: cover; /* Untuk memastikan gambar terisi dengan baik di area bulat */
+    
+  }
+
+  .Avatar {  
+    width: 40px; /* Sesuaikan ukuran avatar sesuai kebutuhan */
+    height: 40px;
+    border-radius: 50%; /* Mengatur gambar menjadi bulat */
+    object-fit: cover; /* Untuk memastikan gambar terisi dengan baik di area bulat */
+    
+  }
+
+  .Avatar2 {  
+    width: 400px; /* Sesuaikan ukuran avatar sesuai kebutuhan */
+    height: 400px;
+    border-radius: 50%; /* Mengatur gambar menjadi bulat */
+    object-fit: cover; /* Untuk memastikan gambar terisi dengan baik di area bulat */
+    
+  }
